@@ -1,8 +1,9 @@
-.img-fluide {
+
+.thumbnail {
     position: relative;
 }
 
-.text-white {
+.caption {
     position: absolute;
     top: 200px;
     left: 0;
@@ -20,4 +21,7 @@ header {
 }
 hr {
     color:  white;
+}
+footer {
+    background: #D1D0CE;
 }
