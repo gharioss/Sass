@@ -8,6 +8,8 @@
     top: 200px;
     left: 0;
     width: 100%;
+    color: white;
+    font-size: 50px;
 }
 .nav-link {
     width: 150px;
@@ -24,4 +26,9 @@ hr {
 }
 footer {
     background: #D1D0CE;
+}
+
+.img-responsive {
+    border-radius:50px;
+    .padding: 20px;
 }
